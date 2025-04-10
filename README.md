@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет! Меня зовут Владислав 👋
 
-<!--
-**malcevlad/malcevlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Frontend-разработчик и стремлюсь создавать удобные, быстрые и качественные приложения.
 
-Here are some ideas to get you started:
+### 🧩 Мой стек технологий:
+- **HTML, CSS**
+- **JavaScript, TypeScript**
+- **ReactJS, Redux**
+- **Webpack, Vite**
+- **Git**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Обучение
+С января 2025 по февраль 2025 проходил обучение по направлению Frontend-разработки в **Яндекс Практикум**.
+
+### 🚀 Сейчас
+Активно развиваю свои навыки и нахожусь в поиске первой работы в сфере frontend-разработки.
+
+### 📫 Как со мной связаться:
+- https://t.me/malcevlad
+- vladislavma95@gmail.com
